@@ -29,13 +29,13 @@ The application helps users identify potential plant diseases and provides infor
 
 ## 📱 App Screenshots
 
-| Detection | Prediction Result | History |
+| Detection | Prediction Result |
 |:---:|:---:|:---:|
-| <img src="screenshots/detection.png" width="190"> | <img src="screenshots/result.png" width="190"> | <img src="screenshots/history.png" width="190"> |
+| <img src="screenshots/detection.png" width="190"> | <img src="screenshots/result.png" width="190"> | 
 
-| History Detail | App Information |
+| History | App Information |
 |:---:|:---:|
-| <img src="screenshots/history_detail.png" width="190"> | <img src="screenshots/information.png" width="190"> |
+| <img src="screenshots/history.png" width="190">  | <img src="screenshots/information.png" width="190"> |
 
 
 ## 🚀 How to Run
