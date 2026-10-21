@@ -35,6 +35,15 @@ The application helps users identify potential plant diseases and provides infor
 | <img src="screenshots/detection.png" width="130"> | <img src="screenshots/result.png" width="130"> | <img src="screenshots/history.png" width="130"> | <img src="screenshots/information.png" width="130"> |
 
 
+## 📥 Download APK
+
+Try LeafAI on your Android device!
+
+**Latest Version:** v1.0.0
+
+🌿 **[Download LeafAI APK](https://github.com/aysns/LeafAI/releases/download/v1.0.0/app-release.apk)**
+
+Or visit the [GitHub Releases](https://github.com/aysns/LeafAI/releases/tag/v1.0.0) page.
 
 ## 🚀 How to Run
 
