@@ -30,7 +30,7 @@ The application helps users identify potential plant diseases and provides infor
 ## 📱 App Screenshots
 
 | Detection | Prediction Result |
-|:---:|:---:|:---:|
+|:---:|:---:|
 | <img src="screenshots/detection.png" width="190"> | <img src="screenshots/result.png" width="190"> | 
 
 | History | App Information |
