@@ -27,15 +27,13 @@ The application helps users identify potential plant diseases and provides infor
 | Gradle | Build system |
 
 
+
 ## 📱 App Screenshots
 
-| Detection | Prediction Result |
-|:---:|:---:|
-| <img src="screenshots/detection.png" width="190"> | <img src="screenshots/result.png" width="190"> | 
+| Detection | Prediction Result | History | Information |
+|:---:|:---:|:---:|:---:|
+| <img src="screenshots/detection.png" width="130"> | <img src="screenshots/result.png" width="130"> | <img src="screenshots/history.png" width="130"> | <img src="screenshots/information.png" width="130"> |
 
-| History | App Information |
-|:---:|:---:|
-| <img src="screenshots/history.png" width="190">  | <img src="screenshots/information.png" width="190"> |
 
 
 ## 🚀 How to Run
